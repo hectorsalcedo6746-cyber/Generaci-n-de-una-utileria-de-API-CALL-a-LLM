@@ -15,7 +15,7 @@ Siga estos pasos para ejecutar y probar la interfaz de conexión:
 
 ### 1. Iniciar el Proyecto
 Abra la solución en Visual Studio y haga clic en el botón **"Iniciar"** (Debug) ubicado en la barra de herramientas superior.
-<img width="498" height="133" alt="1" src="https://github.com/user-attachments/assets/b5e25a29-2922-49b6-99bc-a8c7037e5f28" />
+ <img width="498" height="133" alt="1" src="https://github.com/user-attachments/assets/b5e25a29-2922-49b6-99bc-a8c7037e5f28" />
 
 
 ### 2. Interfaz de Usuario
