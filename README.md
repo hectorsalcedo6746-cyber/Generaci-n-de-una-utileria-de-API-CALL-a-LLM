@@ -28,7 +28,8 @@ Una vez ejecutado, se presentará una ventana titulada **"ChatGeminiIA"**. La in
   <img width="802" height="397" alt="3" src="https://github.com/user-attachments/assets/76f228c6-4535-4440-8f27-75411158e92a" />
 
 * **Respuesta:** La utilidad procesará la solicitud a través de la clase `GeminiService` y mostrará la respuesta del modelo de forma estructurada y legible en la pantalla.
- <img width="800" height="396" alt="4" src="https://github.com/user-attachments/assets/acdecd23-c1e3-4606-99b0-218eee02a0bd" />
+ <img width="803" height="394" alt="1" src="https://github.com/user-attachments/assets/a6aede41-99d8-466c-9af7-5f36e4f9d13f" />
+
 
 
 ---
